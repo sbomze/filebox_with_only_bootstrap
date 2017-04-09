@@ -81,3 +81,12 @@ body {
 .margin-below-bottom-xl {
   margin-bottom: 200px;
 }
+
+.space {
+  margin: 0;
+  padding: 0;
+}
+
+.img-responsive {
+  width: 100%;
+}
