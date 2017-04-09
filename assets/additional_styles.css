@@ -4,6 +4,17 @@ body {
   font-family: "Open Sans";
 }
 
+/*Additions*/
+
+.space {
+  margin: 0;
+  padding: 0;
+}
+
+.img-responsive {
+  width: 100%;
+}
+
 /* My standard vertical spacing classes */
 
 .padding-inside-top-xs {
@@ -80,13 +91,4 @@ body {
 
 .margin-below-bottom-xl {
   margin-bottom: 200px;
-}
-
-.space {
-  margin: 0;
-  padding: 0;
-}
-
-.img-responsive {
-  width: 100%;
 }
